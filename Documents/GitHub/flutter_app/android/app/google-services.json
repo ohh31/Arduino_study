@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "397039485082",
+    "firebase_url": "https://practice-firebase-8f37e.firebaseio.com",
+    "project_id": "practice-firebase-8f37e",
+    "storage_bucket": "practice-firebase-8f37e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397039485082:android:815b354618f0f6e35b1f23",
+        "android_client_info": {
+          "package_name": "s21600427.edu.handong.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397039485082-ie73o932qen1s32186vdaett3uooen2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuaXXlxAu6jsqXKMllYOEtAO74c0NfjLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397039485082-ie73o932qen1s32186vdaett3uooen2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
